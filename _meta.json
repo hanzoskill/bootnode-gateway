@@ -1,0 +1,6 @@
+{
+  "name": "bootnode-gateway",
+  "description": "Keyless blockchain access via x402 USDC micropayments. No API key needed. Agents pay autonomously using an onchain wallet.",
+  "tags": ["blockchain", "web3", "x402", "gateway", "bootnode", "agentic"],
+  "author": "hanzo-bot"
+}
